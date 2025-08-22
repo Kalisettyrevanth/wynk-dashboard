@@ -56,7 +56,7 @@ Interactive Visuals
 
 Clone this repository:
 
-git clone https://github.com/your-username/wynk-dashboard.git
+git clone https://github.com/Kalisettyrevanth/wynk-dashboard.git
 
 
 Open WYNK DASHBOARD.pbix in Power BI Desktop
